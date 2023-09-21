@@ -16,6 +16,13 @@ At that time, they were using TCP for the transmission control protocol.
 WWW for automatic communication.. developed by Tim Berners-Lee.
 www is project that stores the Research papars from APA net team, and other members are able to read the papers.
 
-Why protocols.
 who writes the rules and regulations. the internet society.
 sumission of ideas were submited and is submited via RFC to the internet society.
+
+Why protocols. they are rules defined by the internet society
+
+** TCP --> transmission control protocol for ensuring safety data transmission. **.
+** UDP --> User Datagram Protocol, when you don't care ABOUT the full details of the data transmission.
+User Datagram Protocol (UDP) is a communications protocol that is primarily used to establish low-latency and loss-tolerating connections between applications on the internet.
+** HTTP -> HYPER TEXT TRANSFER PROTOCOL. for defining format of data transmission
+\*\*
