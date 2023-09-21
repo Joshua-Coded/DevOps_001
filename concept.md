@@ -10,3 +10,6 @@ APA needed a way to communiate with each other, so they developed APA net for ea
 the machine was only found in 4 places in the US.
 
 1.. MIT 2. STANFORD 3. VC luanch 4. UTAH
+
+At that time, they were using TCP for the transmission control protocol.
+TCP --
