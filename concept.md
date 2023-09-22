@@ -33,3 +33,5 @@ ISP
 LAN - LOCAL AREA network
 SONET
 FRAME RELAY
+
+MODEM are used to convert digital signals to analog signals.
