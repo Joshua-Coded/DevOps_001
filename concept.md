@@ -84,3 +84,5 @@ How applications are connected to data centers.
 
 Client - Server.
 P2P peer to peer connections.
+
+DNS -- DOMAIN NAME SYSTEM.
