@@ -79,3 +79,8 @@ the collections of servers is known as data center
 you could send request to google using the command below..
 
 ping google.com
+
+How applications are connected to data centers.
+
+Client - Server.
+P2P peer to peer connections.
