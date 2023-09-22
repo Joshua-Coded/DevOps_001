@@ -86,3 +86,12 @@ Client - Server.
 P2P peer to peer connections.
 
 DNS -- DOMAIN NAME SYSTEM.
+database testing...
+classes in DNS
+sub-DOMAIN
+main DOMAIN
+top domain..
+
+The top dns are known as root servers. the first point of contact.
+
+the database for this are managed by ICAN --->> Internet corporation for assigned name and numbers.
