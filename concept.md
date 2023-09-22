@@ -62,3 +62,6 @@ This is implemented in software. e.g ordering app. whatsapp X etc..
 <<--- Presentation Layer --->
 This helps in converting the request from the application layer into machine-readable binary format.
 from ASCII TO EBCDIC format -.-. translation..
+
+<<-- Session Layer --->
+This helps in setting up and managing the connections and it enables the sending and receiving of data followed by termination of the connected session.
