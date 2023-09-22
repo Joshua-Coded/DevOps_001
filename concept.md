@@ -75,3 +75,7 @@ THE TCP/IP MODEL..
 \*\* Physical Layer ....
 
 the collections of servers is known as data center
+
+you could send request to google using the command below..
+
+ping google.com
