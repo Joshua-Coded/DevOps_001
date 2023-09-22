@@ -103,4 +103,5 @@ dig command for looking up dns utility...
 THE TRANSPORT LAYER..
 the transportation of those messages is done by network layer..
 
-the role of the Transport layer is to take the message from the network to the application
+The role of the Transport layer is to take the message from the network to the application
+within the computer the transportation of the message from the application to the network is done by the transportation layer
