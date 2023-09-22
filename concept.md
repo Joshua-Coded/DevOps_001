@@ -44,3 +44,5 @@ TOPOLOGIES HOW Computer ARE ConnectED
 3. STAR Topology
 4. Tree Topology
 5. mesh Topology
+
+STRUCTURE OF THE NETWORK...
