@@ -36,3 +36,9 @@ FRAME RELAY
 
 MODEM are used to convert digital signals to analog signals.
 ROUTER is a device that routes data packets based on their IP addresses.
+
+TOPOLOGIES HOW Computer ARE ConnectED
+
+1. Bus Topology.
+2. Ring Topology
+3. STAR Topology
