@@ -97,3 +97,10 @@ The top dns are known as root servers. the first point of contact.
 the database for this are managed by ICAN --->> Internet corporation for assigned name and numbers.
 
 local cache for storing visitors ip addresses the first time...
+
+dig command for looking up dns utility...
+
+THE TRANSPORT LAYER..
+the transportation of those messages is done by network layer..
+
+the role of the Transport layer is to take the message from the network to the application
