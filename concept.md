@@ -42,3 +42,5 @@ TOPOLOGIES HOW Computer ARE ConnectED
 1. Bus Topology.
 2. Ring Topology
 3. STAR Topology
+4. Tree Topology
+5. mesh Topology
