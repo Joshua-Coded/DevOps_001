@@ -46,3 +46,6 @@ TOPOLOGIES HOW Computer ARE ConnectED
 5. mesh Topology
 
 STRUCTURE OF THE NETWORK...
+OSI MODEL ---> OPEN SYSTEM INTER-CONNECTION MODEL
+** Application Layer..
+**
