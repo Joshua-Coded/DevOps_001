@@ -25,4 +25,11 @@ Why protocols. they are rules defined by the internet society
 ** UDP --> User Datagram Protocol, when you don't care ABOUT the full details of the data transmission.
 User Datagram Protocol (UDP) is a communications protocol that is primarily used to establish low-latency and loss-tolerating connections between applications on the internet.
 ** HTTP -> HYPER TEXT TRANSFER PROTOCOL. for defining format of data transmission
-\*\*
+
+NAT
+DHCP
+ISP
+
+LAN - LOCAL AREA network
+SONET
+FRAME RELAY
