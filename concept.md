@@ -35,3 +35,4 @@ SONET
 FRAME RELAY
 
 MODEM are used to convert digital signals to analog signals.
+ROUTER is a device that routes data packets based on their IP addresses.
