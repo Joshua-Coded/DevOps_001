@@ -1,142 +1,59 @@
-Computer networks, is the connection of individual computer to make up the internet.
+Computer networks involve connecting individual computers to create the internet.
 
-How it started....
-cold war between the united states and the soviet union, on who is goingg to be the first to luanch the first satellite.
-Russia won, they luanch spotnik in 1957.
-TO Counter the Soviet union, US government created a program called APA.
-Advanced Research Project Agency.
+The origin of computer networks can be traced back to the Cold War era, when the United States and the Soviet Union competed to launch the first satellite into space. In 1957, the Soviet Union achieved this milestone with the launch of Sputnik. In response, the U.S. government established the Advanced Research Project Agency (ARPA).
 
-APA needed a way to communiate with each other, so they developed APA net for easy communication among themselves.
-the machine was only found in 4 places in the US.
+ARPA recognized the need for effective communication among its various locations and, as a result, developed ARPAnet to facilitate seamless communication. Initially, ARPAnet was only accessible from four locations in the United States: MIT, Stanford, VC Launch, and Utah.
 
-1.. MIT 2. STANFORD 3. VC luanch 4. UTAH
+During this period, the Transmission Control Protocol (TCP) was utilized for data transmission, and the World Wide Web (WWW), created by Tim Berners-Lee, was introduced. The WWW served as a platform for storing research papers from ARPAnet's team, allowing other members to access and read these documents.
 
-At that time, they were using TCP for the transmission control protocol.
+The rules and regulations governing computer networks are determined by the Internet Society, which accepts idea submissions through Requests for Comments (RFC).
 
-WWW for automatic communication.. developed by Tim Berners-Lee.
-www is project that stores the Research papars from APA net team, and other members are able to read the papers.
+Protocols play a crucial role in computer networks as they define the rules established by the Internet Society:
 
-who writes the rules and regulations. the internet society.
-sumission of ideas were submited and is submited via RFC to the internet society.
+- TCP (Transmission Control Protocol) ensures secure data transmission.
+- UDP (User Datagram Protocol) is used when full data details are not critical. It establishes low-latency, loss-tolerant connections for internet applications.
+- HTTP (Hyper Text Transfer Protocol) defines data transmission formats.
 
-Why protocols. they are rules defined by the internet society
+Other essential components and concepts in computer networks include NAT, DHCP, ISP, LAN (Local Area Network), SONET, FRAME RELAY, MODEMs for digital-to-analog signal conversion, and routers for data packet routing based on IP addresses.
 
-** TCP --> transmission control protocol for ensuring safety data transmission. **.
-** UDP --> User Datagram Protocol, when you don't care ABOUT the full details of the data transmission.
-User Datagram Protocol (UDP) is a communications protocol that is primarily used to establish low-latency and loss-tolerating connections between applications on the internet.
-** HTTP -> HYPER TEXT TRANSFER PROTOCOL. for defining format of data transmission
+Various topologies dictate how computers are interconnected:
 
-NAT
-DHCP
-ISP
-
-LAN - LOCAL AREA network
-SONET
-FRAME RELAY
-
-MODEM are used to convert digital signals to analog signals.
-ROUTER is a device that routes data packets based on their IP addresses.
-
-TOPOLOGIES HOW Computer ARE ConnectED
-
-1. Bus Topology.
+1. Bus Topology
 2. Ring Topology
-3. STAR Topology
+3. Star Topology
 4. Tree Topology
-5. mesh Topology
+5. Mesh Topology
 
-STRUCTURE OF THE NETWORK...
-OSI MODEL ---> OPEN SYSTEM INTER-CONNECTION MODEL
-7 layers
-** Application Layer..
-** Presentation Layer..
-** Session Layer ....
-** Transport Layer ....
-** NETWORK LAYER ...
-** Data Link Layer ....
-\*\* Physical Layer ....
+The structure of computer networks is often represented using the OSI Model (Open System Interconnection Model), which consists of seven layers:
 
-<<----Application Layer --->
-This is implemented in software. e.g ordering app. whatsapp X etc..
+1. Application Layer
+2. Presentation Layer
+3. Session Layer
+4. Transport Layer
+5. Network Layer
+6. Data Link Layer
+7. Physical Layer
 
-<<--- Presentation Layer --->
-This helps in converting the request from the application layer into machine-readable binary format.
-from ASCII TO EBCDIC format -.-. translation..
+Each layer has specific functions:
 
-<<-- Session Layer --->
-This helps in setting up and managing the connections and it enables the sending and receiving of data followed by termination of the connected session.
+- The Application Layer is implemented in software and includes applications like ordering apps and messaging apps.
+- The Presentation Layer converts data from the Application Layer into machine-readable binary format.
+- The Session Layer manages connections, data transfer, and session termination.
 
-THE TCP/IP MODEL..
+The TCP/IP Model, a simplified alternative, includes:
 
-** Application Layer..
-** Transport Layer ....
-** NETWORK LAYER ...
-** Data Link Layer ....
-\*\* Physical Layer ....
+1. Application Layer
+2. Transport Layer
+3. Network Layer
+4. Data Link Layer
+5. Physical Layer
 
-the collections of servers is known as data center
+Data centers consist of collections of servers, and you can send requests to services like Google using commands like "ping google.com."
 
-you could send request to google using the command below..
+Applications can be connected to data centers using two main models: Client-Server and Peer-to-Peer (P2P) connections.
 
-ping google.com
+DNS (Domain Name System) is crucial for translating domain names into IP addresses. DNS classes include subdomains, main domains, and top-level domains. The top DNS servers are known as root servers, and ICANN (Internet Corporation for Assigned Names and Numbers) manages their databases.
 
-How applications are connected to data centers.
+The Transport Layer is responsible for transporting messages between the Network and Application Layers. UDP (User Datagram Protocol) is a connectionless protocol often used for speed-sensitive applications like video conferencing and gaming.
 
-Client - Server.
-P2P peer to peer connections.
-
-DNS -- DOMAIN NAME SYSTEM.
-database testing...
-classes in DNS
-sub-DOMAIN
-main DOMAIN
-top domain..
-
-The top dns are known as root servers. the first point of contact.
-
-the database for this are managed by ICAN --->> Internet corporation for assigned name and numbers.
-
-local cache for storing visitors ip addresses the first time...
-
-dig command for looking up dns utility...
-
-THE TRANSPORT LAYER..
-the transportation of those messages is done by network layer..
-
-The role of the Transport layer is to take the message from the network to the application
-within the computer the transportation of the message from the application to the network is done by the transportation layer
-
-UDP user-Datagram protocol... here data may or not be delivered..
-data may changed, data may not be in ordering
-
-this is a connectionless protocol.. no connection is established.
-
-UDP PACKET... all data packets will have port number. source and destination
-
-use cases of UDP.
-it is very fast.
-video conference applications
-dns uses UDP
-gaming also use UDP
-
-commands for showing all the packets available.
-tcpdump -c 5
-
-TCP --> transmission CONTROL PROTOCOL
-this is used in http.
-
-- it's collect data from network layer.
-  it works with the transport layer protocol.
-  application layer sends alot of raw data. Tcp then segment this data and add headers, checksums and all.
-  it is also does congetion control.
-
-it takes care of
-
-1. when data does not arrive
-2. it rearranges the order of data, using sequence numbers.
-
-features..
-connection oriented..
-error control
-congetion control
-full duplex control
+TCP (Transmission Control Protocol) is used in HTTP and ensures data reliability through congestion control, error control, and reordering of data.
