@@ -110,3 +110,5 @@ UDP user-Datagram protocol... here data may or not be delivered..
 data may changed, data may not be in ordering
 
 this is a connectionless protocol.. no connection is established.
+
+UDP PACKET... all data packets will have port number. source and destination
