@@ -108,3 +108,5 @@ within the computer the transportation of the message from the application to th
 
 UDP user-Datagram protocol... here data may or not be delivered..
 data may changed, data may not be in ordering
+
+this is a connectionless protocol.. no connection is established.
