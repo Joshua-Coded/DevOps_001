@@ -134,3 +134,9 @@ it takes care of
 
 1. when data does not arrive
 2. it rearranges the order of data, using sequence numbers.
+
+features..
+connection oriented..
+error control
+congetion control
+full duplex control
