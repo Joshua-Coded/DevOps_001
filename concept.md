@@ -123,3 +123,14 @@ commands for showing all the packets available.
 tcpdump -c 5
 
 TCP --> transmission CONTROL PROTOCOL
+this is used in http.
+
+- it's collect data from network layer.
+  it works with the transport layer protocol.
+  application layer sends alot of raw data. Tcp then segment this data and add headers, checksums and all.
+  it is also does congetion control.
+
+it takes care of
+
+1. when data does not arrive
+2. it rearranges the order of data, using sequence numbers.
