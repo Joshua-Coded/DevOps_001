@@ -105,3 +105,6 @@ the transportation of those messages is done by network layer..
 
 The role of the Transport layer is to take the message from the network to the application
 within the computer the transportation of the message from the application to the network is done by the transportation layer
+
+UDP user-Datagram protocol... here data may or not be delivered..
+data may changed, data may not be in ordering
