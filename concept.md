@@ -112,3 +112,12 @@ data may changed, data may not be in ordering
 this is a connectionless protocol.. no connection is established.
 
 UDP PACKET... all data packets will have port number. source and destination
+
+use cases of UDP.
+it is very fast.
+video conference applications
+dns uses UDP
+gaming also use UDP
+
+commands for showing all the packets available.
+tcpdump -c 5
