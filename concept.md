@@ -121,3 +121,5 @@ gaming also use UDP
 
 commands for showing all the packets available.
 tcpdump -c 5
+
+TCP --> transmission CONTROL PROTOCOL
