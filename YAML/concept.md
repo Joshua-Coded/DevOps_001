@@ -9,4 +9,7 @@ the steps in the SDLC process
 
 the end goal is to deliver high quality applications
 
-planning -> defining -> design -> build -> test -> deploy
+planning -> defining -> design -> build -> test -> deploy.
+
+The virtual machine.
+Hypervisor
