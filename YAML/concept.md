@@ -8,3 +8,5 @@ the steps in the SDLC process
 \*test
 
 the end goal is to deliver high quality applications
+
+planning -> defining -> design -> build -> test -> deploy
