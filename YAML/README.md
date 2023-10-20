@@ -14,3 +14,16 @@ a string of byte...
 the opposite is called deserialization.
 to represent the data in a file you make use of data serializer LANGUAGE: like
 YAML, XML AND JSON.
+
+configuration file... docker kubernetes
+logs caches.
+
+Benefit of YAML.
+
+1. simple and easy to read.
+2. it has a strict syntax
+3. indentation is important
+4. easily convertable to other data serializer LANGUAGEs JSON AND XML.
+5. most programming langauage use YAML.
+6. it more powerful when representing complex data.
+7. you can use other tools with it. parser e.t.c.
