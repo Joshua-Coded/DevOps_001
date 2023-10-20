@@ -2,3 +2,37 @@
 myself: Joshua Alana
 fruit: "apple"
 job: 'swe'
+
+bio: | 
+hey my name is joshua alana.
+i am a very nice dude.
+
+# write a single line in multiple lines
+messages: >
+this will
+all be 
+in one single line.
+
+#same as this
+messages: this will all be  in one single line.
+
+number: 234353
+marks: 5454.656
+booleanValue: No
+
+zeroValue: !!int 0
+positiveValue: !!int 1
+negativeValue: !!int -4
+binaryNumber: !!int 0b11001
+commaValue: !!int + 546_00 # 546,000
+
+#floating points numbers
+marks: !!float 33.65
+infinite: !!float .inf
+not a num: .nan
+
+
+#boolean
+booleanValue: !!bool No
+
+
