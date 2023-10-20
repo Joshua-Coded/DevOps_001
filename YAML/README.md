@@ -12,3 +12,5 @@ SERIALIZATION is basically converting the data objects into a complex data struc
 a string of byte...
 
 the opposite is called deserialization.
+to represent the data in a file you make use of data serializer LANGUAGE: like
+YAML, XML AND JSON.
