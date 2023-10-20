@@ -35,4 +35,8 @@ not a num: .nan
 #boolean
 booleanValue: !!bool No
 
+#null
+surname: !!null Null
+~: this is a null key.
 
+date: !!timestamp 2002-12-14
