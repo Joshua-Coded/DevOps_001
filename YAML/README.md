@@ -27,3 +27,13 @@ Benefit of YAML.
 5. most programming langauage use YAML.
 6. it more powerful when representing complex data.
 7. you can use other tools with it. parser e.t.c.
+8. parsing is easy.
+
+it also make use of key values pair.
+#list
+
+- apple
+- mango
+- banana
+
+N.B that YAML is case sentitive..
