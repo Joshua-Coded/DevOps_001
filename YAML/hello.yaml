@@ -1,2 +1,14 @@
 "apple": "I am a red fruit"
 1: "this is joshua number"
+---
+#lists
+- apple
+- mango
+- banana
+---
+cities:
+  - kigali
+  - lagos
+  - kampala
+  - nairobi
+...
