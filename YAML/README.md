@@ -10,3 +10,5 @@ This is known as DATA SERIALIZATION.
 
 SERIALIZATION is basically converting the data objects into a complex data structure.
 a string of byte...
+
+the opposite is called deserialization.
