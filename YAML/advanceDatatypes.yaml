@@ -1,0 +1,28 @@
+# lists
+student: !!seq
+ - marks
+ - name
+ - role_no
+
+
+# some of the keys pf the seq will be empty
+# that is known as sparse sequence
+
+sparse seq:
+ - hey
+ - how
+ - are
+ -
+ - Null
+ - sup
+
+
+# nested sequence 
+--
+ - mango
+ - apple
+ - banana
+--
+ - marks
+ - roll num
+ - date
