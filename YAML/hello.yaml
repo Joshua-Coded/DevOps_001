@@ -11,4 +11,8 @@ cities:
   - lagos
   - kampala
   - nairobi
+---
+cities: [kigali, kampala, nairobi]
+---
+{mango: "yellow fruit", price: 10}
 ...
